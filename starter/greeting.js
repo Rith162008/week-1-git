@@ -5,3 +5,8 @@
 console.log("Hello, Git!");
 console.log("rith");
 console.log("hello from github");
+function sayGoodbye() {
+  console.log("Goodbye, Git!");
+}
+sayGoodbye();
+
